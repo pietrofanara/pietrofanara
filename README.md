@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pietrofanara
+- 👀 I’m interested in ABAP development for professional (and not) reasons
